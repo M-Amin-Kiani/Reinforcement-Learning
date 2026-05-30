@@ -224,4 +224,4 @@ this repository was written for you.
 
 ## License
 
-MIT License
+UI License
