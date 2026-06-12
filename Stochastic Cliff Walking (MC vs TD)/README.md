@@ -1,5 +1,7 @@
 # Reinforcement Learning: Stochastic Cliff Walking (MC vs TD)
 
+<img width="720" height="240" alt="cliff_walking" src="https://github.com/user-attachments/assets/608eb72a-06e5-4cfc-adbc-77c3e3c8b4c6" />
+
 This repository contains a **Google Colab-ready** project for building, evaluating, and comparing fundamental **Reinforcement Learning (RL)** algorithms on a custom **Stochastic Cliff Walking** environment.
 
 The project systematically covers both **Prediction (Evaluation)** and **Control** tasks using methods from *Reinforcement Learning: An Introduction* by Sutton & Barto (2nd Edition).
@@ -231,12 +233,6 @@ This project is based on concepts from:
 **Sutton, R. S., & Barto, A. G. (2018).**  
 *Reinforcement Learning: An Introduction (2nd Edition).*  
 MIT Press.
-
----
-
-## License
-
-Add the appropriate license file for your repository if you plan to publish or share the project publicly.
 
 ---
 
